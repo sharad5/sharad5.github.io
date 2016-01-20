@@ -80,10 +80,10 @@ ul.nav{
 }
 /*banner area*/
 .banner{
-	background: url(../img/banner.jpg);
+	background: url(../img/me.jpeg);
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-position: center;
+	background-position: 25% 30%;
 }
 .banner h3{
 	font-size: 30px;
@@ -114,7 +114,8 @@ ul.nav{
 	border-radius: 2px;
 	border: 0px;
 	font-weight: 800;
-	margin-bottom: 205px;
+	margin-top: 250px;
+	margin-bottom: 150px;
 	transition: all .5s ease 0s;
 	-webkit-transition: all .5s ease 0s;
 	-moz-transition: all .5s ease 0s;
@@ -306,7 +307,7 @@ ul.nav{
   	left: 32px;
 	width: 80%;
 	height: 80%;
-	background: rgba(2, 145, 140, 0.77);
+	background: #02918C;
 	display: none;
 }
 .single-portfolio:hover .portfolio-details{
