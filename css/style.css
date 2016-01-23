@@ -80,7 +80,7 @@ ul.nav{
 }
 /*banner area*/
 .banner{
-	background: url(../img/me.jpeg);
+	background: url(../img/me_compressed.jpeg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: 25% 30%;
@@ -106,7 +106,7 @@ ul.nav{
 	margin: 50px;
 }
 .banner button{
-	width: 190px;
+	width: auto;
 	height: 50px;
 	font-size: 14px;
 	color: #0b1016;
@@ -114,8 +114,8 @@ ul.nav{
 	border-radius: 2px;
 	border: 0px;
 	font-weight: 800;
-	margin-top: 250px;
-	margin-bottom: 150px;
+	margin-top: 290px;
+	margin-bottom: 100px;
 	transition: all .5s ease 0s;
 	-webkit-transition: all .5s ease 0s;
 	-moz-transition: all .5s ease 0s;
